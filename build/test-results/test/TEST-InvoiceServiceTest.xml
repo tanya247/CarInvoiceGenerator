@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-13T07:16:17" hostname="LAPTOP-Q9T3UUC8" time="0.026">
+<testsuite name="InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-13T07:59:30" hostname="LAPTOP-Q9T3UUC8" time="0.021">
   <properties/>
-  <testcase name="givenMultipleRides_ShouldReturnTotalFare()" classname="InvoiceServiceTest" time="0.026"/>
-  <system-out><![CDATA[Total Fare is : Rs. 30.0
-]]></system-out>
+  <testcase name="givenMultipleRides_ShouldReturnInvoiceSummary()" classname="InvoiceServiceTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
